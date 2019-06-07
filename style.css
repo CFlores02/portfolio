@@ -1,6 +1,25 @@
-body {
-  background: #77dd99;
-}
 h1{
-  color: grey;
+  color: White;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+}
+h2 {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+p {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+li {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  
+}
+body {
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4dNWBk7-iSkoeNxRGL9sew8QKR7dk3xpPsR-47PF6jCrKOlJiQ");
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
 }

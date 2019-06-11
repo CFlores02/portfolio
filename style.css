@@ -1,14 +1,22 @@
 h1{
-  color: White;
-  font-size: 25px;
+  color: black;
+  opacity: 0.7;
+  font-weight: bold;
+  font-size: 35px;
   font-family: "Times New Roman", Times, serif;
 }
 h2 {
   color: white;
+  font-size: 20px;
   font-family: "Times New Roman", Times, serif;
+}
+#pantherchamelon {
+  height: 220px;
+  width: 290px;
 }
 p {
   color: white;
+  font-size: 15px;
   font-family: "Times New Roman", Times, serif;
 }
 li {
@@ -21,8 +29,58 @@ body {
   background-attachment:fixed;
   background-repeat: no-repeat;
   background-size: cover;
+  
 }
 img {
-  height: 150px;
-  width: 160px;
+  height: 180px;
+  width: 160px
+}
+table {
+  color: black;
+  padding: 20px;
+  background-color: #aaaaaa;
+  text-align: center;
+  margin: 20px auto;
+  border: 10px solid #000000;
+  
+}
+th, td {
+  border: 6px solid #000000;
+  width: 250px;
+  font-size: 25px;
+}
+#Ambilobe {
+  height: 100px;
+  width: 130px;
+}
+#Nosy_Be {
+  height: 100px;
+  width: 150px;
+}
+#Tamatave {
+  height: 100px;
+  width: 150px;
+}
+#Nosy_Faly {
+  height: 130px;
+  width: 150px;
+}
+.text,.checkbox,.radio {
+  background-color: #aaaaaa;
+  border: 6px solid #000000;
+  margin: 15px;
+  padding: 15px;
+}
+.submission {
+  background-color: #aaaaaa;
+  border: 6px solid #000000;
+  margin: 15px;
+  padding: 15px;
+  width: 55px;
+}
+#pantherchameleon {
+  height: 200px;
+  width: 235px;
+  border: 3px solid #000000;
+}
 }
